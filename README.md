@@ -1,10 +1,10 @@
-### Hi there 👋  ![](https://komarev.com/ghpvc/?username=tanakou0226)
+### Hi there 👋  
+[![](https://img.shields.io/twitter/follow/tanakou_0226?color=%234Bf&label=followers&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/tanakou0226)
+[![](https://img.shields.io/github/followers/tanakou0226?color=%2384F&label=followers&logo=github&style=plastic)](https://github.com/tanakou0226)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ffree_0226&style=plastic)](https://atcoder.jp/users/free_0226)
 
-<p>
-▶ 愛媛大学の学生です。
-  
-▶機械学習が好きです。
-</p>
+- 大学生です
+- 機械学習が好きでコンペに参加したりしています
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,6 +13,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<div style="vertical-align:center;">
+<img height="150px" src="https://github-readme-stats.vercel.app/api/?username=tanakou0226&show_icons=true&count_private=true"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakou0226&layout=compact"/>
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=streamwest-1629&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
