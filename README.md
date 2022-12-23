@@ -3,8 +3,8 @@
 [![](https://img.shields.io/github/followers/tanakou0226?color=%2384F&label=followers&logo=github&style=plastic)](https://github.com/tanakou0226)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ffree_0226&style=plastic)](https://atcoder.jp/users/free_0226)
 
-- 大学生です
-- 機械学習が好きでコンペに参加したりしています
+## 自己紹介
+ここに自己紹介を書きます。
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +18,15 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api/?username=tanakou0226&show_icons=true&count_private=true"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakou0226&layout=compact"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=streamwest-1629&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanakou0226&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+## 技術的な自己紹介
+
+
+## pined repo
+
+| 1 | 2 | 3 |
 
 
 <!--
