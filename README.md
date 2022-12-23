@@ -4,7 +4,7 @@
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ffree_0226&style=plastic)](https://atcoder.jp/users/free_0226)
 
 ## 自己紹介
-ここに自己紹介を書きます。
+大学生です。ぼちぼちコードを書いています。
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,12 +21,21 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanakou0226&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-## 技術的な自己紹介
+## 技術的なコト
+プログラミングを始めた当初はwebアプリに関する技術を主に学んでいましたが、
+機械学習を始めてからはデータに関することばかりやっていて、これからも
+やりたいなぁと考えています。
 
 
-## pined repo
+## やったこと
 
-| 1 | 2 | 3 |
+| 名前 | 説明 | URLなど |
+| :-- | :-- | :-- |
+| ハックダービー | ハッカソンで作製した投票機能を持つアプリのバックエンドです。Djangoを使って作りました。(未完成) | https://github.com/tanakou0226/hack_darby |
+| go_dragon | Microsoft Learn にあるBabylon.jsとAzureの音声テキスト変換を利用したアプリケーションの作成を学ぶモジュールを行ったものです。| URL |
+| kaggle-Foursquare | kaggleのテールデータを使ったコンペです。メダルにはあと少し足りませんでした・・・・ | 他の人のプライベートレポジトリで行いました。 |
+| signate-studentCup | signateの自然言語処理に関する学生限定コンペです。銀メダルを獲得できました | https://github.com/tanakou0226/student-cup-2022 |
+
 
 
 <!--
