@@ -4,7 +4,7 @@
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ffree_0226&style=plastic)](https://atcoder.jp/users/free_0226)
 
 ## 自己紹介
-大学生です。ぼちぼちコードを書いています。
+大学生です。機械学習辺りを主にやっています。
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +35,7 @@
 | go_dragon | Microsoft Learn にあるBabylon.jsとAzureの音声テキスト変換を利用したアプリケーションの作成を学ぶモジュールを行ったものです。| URL |
 | kaggle-Foursquare | kaggleのテールデータを使ったコンペです。メダルにはあと少し足りませんでした・・・・ | 他の人のプライベートレポジトリで行いました。 |
 | signate-studentCup | signateの自然言語処理に関する学生限定コンペです。銀メダルを獲得できました | https://github.com/tanakou0226/student-cup-2022 |
+| Twwiter add-on | ブラウザでTwitterを表示している時間をカウントして表示するchrome拡張を作成しています。 | https://github.com/tanakou0226/twitter-addon |
 
 
 
